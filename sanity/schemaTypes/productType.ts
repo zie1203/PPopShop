@@ -82,9 +82,9 @@ export const productType = defineType({
       options: {
         list: [
           { title: "Tshirt", value: "tshirt" },
-          { title: "Photocard", value: "photocard" },
+          { title: "BINI", value: "bini" },
           { title: "Pants", value: "pants" },
-          { title: "SB19", value: "sb19" },
+          { title: "Hoodie", value: "hoodie" },
           { title: "Short", value: "short" },
           { title: "Others", value: "others" },
         ],
