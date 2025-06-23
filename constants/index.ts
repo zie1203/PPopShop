@@ -12,8 +12,7 @@ export const productType = [
   { title: "Tshirt", value: "tshirt" },
   { title: "Albums", value: "album" },
   { title: "Photocards", value: "photocard" },
-  { title: "Hoodie", value: "hoodie" },
-  { title: "Short", value: "tshirt" },
+  { title: "Others", value: "others" },
 ];
 
 export const quickLinksData = [

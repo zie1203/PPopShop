@@ -86,7 +86,6 @@ export const productType = defineType({
           { title: "Photocards", value: "photocard" },
           { title: "Others", value: "others" },
           { title: "Hoodie", value: "hoodie" },
-          { title: "Short", value: "short" },
           
         ],
       },

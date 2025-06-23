@@ -807,10 +807,6 @@
             },
             {
               "type": "string",
-              "value": "short"
-            },
-            {
-              "type": "string",
               "value": "others"
             }
           ]
