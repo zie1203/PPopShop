@@ -136,7 +136,7 @@ export type Product = {
   }>;
   stock?: number;
   status?: "new" | "hot" | "sale";
-  variant?: "tshirt" | "bini" | "pants" | "hoodie" | "short" | "others";
+  variant?: "tshirt" | "album" | "photocard" | "hoodie" | "short" | "others";
 };
 
 export type Category = {
@@ -262,7 +262,7 @@ export type PRODUCT_BY_SLUG_QUERYResult = {
   }>;
   stock?: number;
   status?: "hot" | "new" | "sale";
-  variant?: "hoodie" | "bini" | "others" | "pants" | "short" | "tshirt";
+  variant?: "hoodie" | "album" | "others" | "photocard" | "short" | "tshirt";
 } | null;
 // Variable: CATEGORIES_QUERY
 // Query: *[_type=="category"] | order(name asc)
@@ -341,7 +341,7 @@ export type MY_ORDERS_QUERYResult = Array<{
       }>;
       stock?: number;
       status?: "hot" | "new" | "sale";
-      variant?: "hoodie" | "bini" | "others" | "pants" | "short" | "tshirt";
+      variant?: "hoodie" | "album" | "others" | "photocard" | "short" | "tshirt";
     } | null;
     quantity?: number;
     _key: string;
