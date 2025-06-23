@@ -120,9 +120,3 @@ async function createOrderInsanity(
   });
   return order;
 }
-
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
