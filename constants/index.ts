@@ -10,8 +10,8 @@ export const headerData = [
 
 export const productType = [
   { title: "Tshirt", value: "tshirt" },
-  { title: "Albums", value: "album" },
-  { title: "Photocards", value: "photocard" },
+  { title: "Album", value: "album" },
+  { title: "Photocard", value: "photocard" },
   { title: "Others", value: "others" },
 ];
 
