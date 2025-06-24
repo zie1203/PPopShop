@@ -59,7 +59,7 @@ export const productType = defineType({
     }),
     defineField({
       name: "stock",
-      title: "Stock",
+      title: "",
       type: "number",
       validation: (Rule) => Rule.min(0),
     }),

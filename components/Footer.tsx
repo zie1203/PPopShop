@@ -16,8 +16,9 @@ const Footer = () => {
           <div className="space-y-4">
             <Logo>PPopShop</Logo>
             <p className="text-gray-600 text-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem ex ad
-              at vitae esse. Vero fuga laborum disti.
+              PPopShop is an online store that offers a wide range of
+              products, from your favorite band fashion to PPop merchandise. 
+              We are dedicated to providing high-quality products and exceptional customer service.
             </p>
             <SocialMedia
               className="text-darkColor/60"

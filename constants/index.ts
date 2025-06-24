@@ -24,14 +24,9 @@ export const quickLinksData = [
 ];
 
 export const categoriesData = [
-  { title: "Men's Fashion", href: "/men" },
-  { title: "Women's Fashion", href: "/women" },
-  { title: "Kids corner", href: "/kids" },
-  { title: "Others", href: "/others" },
-  { title: "Tshirt", href: "/t-shirt" },
-  { title: "Accessories", href: "/accessories" },
-  { title: "Household", href: "/household" },
-  
+  { title: "BINI", href: "/bini" },
+  { title: "SB19", href: "/sb19" },
+  { title: "BGYO", href: "/bgyo" },
 ];
 export const faqsData = [
   {
