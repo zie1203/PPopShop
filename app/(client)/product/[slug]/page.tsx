@@ -4,13 +4,6 @@ import ImageView from "@/components/ImageView";
 import PriceView from "@/components/PriceView";
 import ProductCharacteristics from "@/components/ProductCharacteristics";
 import { getProductBySlug } from "@/sanity/helpers/queries";
-import {
-  BoxIcon,
-  FileQuestion,
-  Heart,
-  ListOrderedIcon,
-  Share,
-} from "lucide-react";
 import { notFound } from "next/navigation";
 import React from "react";
 
