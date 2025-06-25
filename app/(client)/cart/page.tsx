@@ -217,7 +217,7 @@ const CartPage = () => {
                       >
                         Proceed to Checkout
                       </Button>
-                      <Link
+                      {/* <Link
                         href={"/"}
                         className="flex items-center justify-center py-2 border border-darkColor/50 rounded-full hover:border-darkColor hover:bg-darkColor/5 hoverEffect"
                       >
@@ -226,7 +226,7 @@ const CartPage = () => {
                           alt="paypalLogo"
                           className="w-20"
                         />
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </div>
